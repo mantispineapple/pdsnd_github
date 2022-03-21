@@ -175,6 +175,7 @@ def user_stats(df2):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+#runs all functions created within file
 def main():
     while True:
         get_filters()
