@@ -4,10 +4,10 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+Potential alternative title is Bikeshare Analysis
 
 ### Description
-Describe what your project is about and what it does
+In addition to allowing users to see statistics regarding bikeshare data it also enables datasets to be shortened via filtering. This is important in streamlining computation methods.
 
 ### Files used
 Include the files used
