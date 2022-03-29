@@ -3,13 +3,8 @@
 ### Date created
 03/20/2022
 
-
 ### Project Title
-
 Bikeshare Project
->>>>>>> documentation
-
-### Description
 
 The project includes a python file with code that provides statistical analysis of bikeshare data.
 Comments have been added throughout the course of the project to ensure that functions within code can be reused.
@@ -29,4 +24,4 @@ This includes the following names;
 John Smith
 Bessy Adams
 Mary Katherine
->>>>>>> refactoring
+
